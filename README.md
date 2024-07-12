@@ -1,5 +1,5 @@
 # HMNData
-The dataset used for HMN
+The dataset used for Heterogeneous Multi-layered Network for Modeling Complex Graph-Data
 
 The folder Generated Networks contains the Networks used for the Tables 1 - 5
 
